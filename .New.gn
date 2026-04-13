@@ -1,3 +1,0 @@
-//组名:字体,加粗,斜体,字号,字体颜色,圆角半径,边框线宽,边框颜色,背景颜色,{关联引脚名1,关联引脚名2,关联引脚名3,,,}
-GND	:Cursive,0,1,12,#FFFFFF,3,1,#ebffec,#000000,{GND,GND\w+,\w+GND,\w+GND\w+,VSS.*,VSSA,0V,V-}
-VCC	:Arial,0,0,12,#000000,3,1,#37f06b,#FF0000,{-?\+?\d+(?:\.\d+)?V,VDD\d*V\d?,VCC\d*V\d?,\w*VCC\w*,\w*VDD\w*,V\+,V3,-?\+?3V3,-?\+?\d*\.\d?,V5,\w?VCORE\w?,VDDIO,PVDD,VDD3P3,-?\+?BAT-?\+?,VBAT,-?\+?VBUS-?\+?,-?\+?VREF-?\+?,VEE}
