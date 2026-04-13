@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 可能的临时文件
+*.log
+*.tmp
+
+#用户调试所需的案例文件
+项目需求与描述.txt
+.说明.txt
+.shuoming.txt
+shuoming.txt
+New.gn
