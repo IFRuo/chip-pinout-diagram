@@ -23,4 +23,5 @@ RTC	:Cursive,1,0,12,#000000,3,1,#424242,#fea3a8,{RTC_?REFIN,RTC_?OUT}
 WDG	:Calibri,0,0,12,#000000,3,1,#424242,#48bced,{IWDG,WWDG}
 NC	:Aa细黑,0,0,12,#ebffec,3,1,#424242,#c6c6c6,{NC}
 EPAD	:Cursive,0,0,16,#000000,3,1,#000000,#ffffff,{EPAD,EP}
+PE	:Cursive,0,0,16,#005800,3,2,#55ff00,#ffff00,{EP}
 OTHER	:Candara,0,0,12,#000000,3,1,#757575,#FFFFFF,{.+}

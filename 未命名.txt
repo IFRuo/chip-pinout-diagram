@@ -1,0 +1,22 @@
+[Chip pin function]
+[13]
+[456]
+[PID(16)]
+
+GND	:Cursive,0,1,12,#FFFFFF,3,1,#ebffec,#000000,{GND,GND\w+,\w+GND,\w+GND\w+,VSS.*,VSSA,0V,V-}
+VCC	:Arial,0,0,12,#000000,3,1,#37f06b,#FF0000,{-?\+?\d+(?:\.\d+)?V,VDD\d*V\d?,VCC\d*V\d?,\w*VCC\w*,\w*VDD\w*,V\+,V3,-?\+?3V3,-?\+?\d*\.\d?,V5,\w?VCORE\w?,VDDIO,PVDD,VDD3P3,-?\+?BAT-?\+?,VBAT,-?\+?VBUS-?\+?,-?\+?VREF-?\+?,VEE}
+NC	:Aa细黑,0,0,12,#ebffec,3,1,#424242,#c6c6c6,{NC}
+OTHER	:Candara,0,0,12,#000000,3,1,#757575,#FFFFFF,{.+}
+PE	:Cursive,0,0,16,#000000,3,1,#000000,#ffffff,{EP}
+
+00:[NC,NC],(1,1)
+01:[P1,GPIO],(1,1)
+02:[P2,GPIO],(1,1)
+03:[P3,GPIO],(1,1)
+04:[P4,GPIO],(1,1)
+05:[P5,GPIO],(1,1)
+06:[P6,GPIO],(1,1)
+07:[P7,GPIO],(1,1)
+08:[P8,GPIO],(1,1)
+09:[P9,GPIO],(1,1)
+10:[P10,GPIO],(1,1)

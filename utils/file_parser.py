@@ -173,11 +173,13 @@ class FileParser:
 
         # 解析并应用功能组样式信息
         if include_styles:
+            # 先清空styles字典，确保按照文件中的顺序加载样式
+            self.style_manager.styles.clear()
             for style_line in style_lines:
                 style = self._parse_style_line(style_line)
                 if style:
-                    # 如果样式已存在，更新它；否则添加它
-                    self.style_manager.update_style(style)
+                    # 直接添加样式，确保按照文件中的顺序
+                    self.style_manager.styles[style.name] = style
 
         # 解析引脚信息
         for pin_line in pin_lines:

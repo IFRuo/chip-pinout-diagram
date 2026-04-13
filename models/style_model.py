@@ -450,6 +450,9 @@ class StyleManager:
 
     def load_from_file(self, file_path: str) -> bool:
         try:
+            # 先清空styles字典
+            self.styles.clear()
+            # 按照文件中的顺序重新添加样式
             with open(file_path, 'r', encoding='utf-8') as f:
                 for line in f:
                     line = line.strip()

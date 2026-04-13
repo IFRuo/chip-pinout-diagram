@@ -2,13 +2,13 @@ import sys
 import os
 from PyQt5.QtWidgets import QApplication, QFileDialog, QMessageBox
 from PyQt5.QtCore import Qt
-from models import ChipModel, PinModel, StyleManager
+from models import PinModel, StyleManager
 from ui import MainWindow
 from utils import StyleLoader, FileParser, SvgGenerator
 from dialogs import StyleSelectDialog
 
-class ChipPinApp:
-    def __init__(self):
+class ChipPinApp:#测试用
+    def __init__(self): 
         self.app = QApplication(sys.argv)
         self.app.setStyle('Fusion')
 
