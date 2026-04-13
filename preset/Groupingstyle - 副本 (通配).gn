@@ -1,0 +1,24 @@
+//组名:字体,加粗,斜体,字号,字体颜色,圆角半径,边框线宽,边框颜色,背景颜色,{关联引脚名1,关联引脚名2,关联引脚名3,,,}
+GND	:Cursive,0,1,12,#FFFFFF,3,1,#000000,#000000,{GND,GND\w+,\w+GND,\w+GND\w+,VSS,0V,V-}
+VCC	:Cursive,0,0,12,#000000,3,1,#37f06b,#FF0000,{-?\+?\d+(?:\.\d+)?V,VDD\d*V\d?,VCC\d*V\d?,\w*VCC\w*,\w*VDD\w*,V\+,V3,-?\+?3V3,-?\+?\d*\.\d?,V5,\w?VCORE\w?,VDDIO,PVDD,VDD3P3,-?\+?BAT-?\+?,-?\+?VBUS-?\+?,-?\+?VREF-?\+?,VEE}
+RESET	:Cursive,0,0,12,#000000,3,1,#000000,#55ff00,{RESET,NRST,RST,nRST,RST_?N,RESET_?N}
+GPIO	:Cursive,0,0,12,#000000,3,1,#000000,#ffff56,{GPIO\d+,P[A-Za-z]\d,P[A-Za-z]\d\d,P\d,P\d\.\d}
+PWM	:Cursive,0,0,12,#3f3f3f,3,1,#424242,#d2ffbd,{PWM\d+}
+TIM	:Cursive,0,0,12,#3f3f3f,3,1,#422242,#d2ffbd,{TIM\d+_?\w+}
+USART	:Cursive,0,0,12,#FFFFFF,3,1,#000000,#4291e5,{TXD,RXD,\w*USART\w*,\w*UART\w*,TX\d\d,TX\d,RX\d\d,RX\d,TXD\d,RXD\d,TXD\d\d,RXD\d\d,U\d?_TX,,U\d?_RX,CTS,RTS,nCTS,nRTS,DTR}
+I2C	:Cursive,0,0,12,#E0E0E0,3,1,#424242,#007fff,{\w*I2C\w*,\w*IIC\w*,SCL\w+,\w+SCL,\w+SCL\w+,SDA\w+,\w+SDA,\w+SDA\w+,I2CCLK,SDA,DATA,I2CDAT}
+SPI	:Cursive,0,0,12,#3f3f3f,3,1,#424242,#007f00,{\w*SPI\w*,\w*MOSI\w*,\w*MISO\w*,\w*SCK\w*,\w*SDI\w*,SCLK,CLK,SPI_?CLK,SCK,MOSI,SDO,DOUT,TX,SPI_?MOSI,MISO,SDI,DIN,RX,SPI_?MISO,SS,CS,CS,NSS,SPI_?CS,CE,nSS}
+ADC	:Cursive,0,0,12,#000000,3,1,#424242,#00ffff,{ADC,ADC\d*,AIN\d+,AN\d+,ADC_?IN\d+}
+DAC	:Cursive,0,0,12,#3f3f3f,3,1,#565656,#ffaaaa,{DAC,DAC\d*,DAC_?OUT}
+I2S	:Cursive,0,0,12,#007fff,3,1,#007fff,#ead0d0,{\w*I2S\w*,\w*IIS\w*,BCLK,I2S_?BCLK,SCK,CLK,WS,LRCLK,I2S_?WS,FS,LRC,SD,I2S_?SD,SDATA,DIN,DOUT,MCLK,I2S_?MCLK,MCLK,SYSCLK,I2C_?CLK,I2C_?DATA}
+XTAL	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{XTAL\d+,OSCOUT,OSCIN,OSC32_?IN,OSC32_?OUT,OSC,XOUT,XTAL,OSC,XIN,XOUT,OSC32IN,OSC32OUT}
+CAN	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{\w*CAN\w*}
+LAN	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{\w*LAN\w*}
+USB	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{\w*USB\w*,D+,D-,DM\w,DP\w,CC\d,DM,DP}
+SDIO	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{\w*SDIO\w*}
+SWD	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{SWDIO,SWCLK,SWD_?CLK,SWD_?IO}
+JTAG	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{JTMS,JTCK,JTDI,JTDO,JNTRST,NJTRST}
+BOOT	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{BOOT0,BOOT1}
+NC	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{NC}
+RTC	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{RTC_?REFIN,RTC_?OUT}
+WDG	:Cursive,0,0,12,#000000,3,1,#424242,#ead0d0,{IWDG / WWDG}

@@ -1,0 +1,172 @@
+<svg width="1485.6" height="960.0" xmlns="http://www.w3.org/2000/svg">
+<rect width="1485.6" height="960.0" fill="#555555" />
+<defs>
+  <marker id="pin_marker" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" fill="#000000" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+</defs>
+<rect fill="#000000" height="190" rx="10" ry="10" stroke="#000000" stroke-width="5" width="125" x="680.0" y="385.0"/>
+<ellipse cx="695.0" cy="400.0" fill="#000000" rx="5" ry="5" stroke="#ffffff" stroke-width= "1"/>
+<g class="pin_layer">
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="405.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="413.0">1</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="405.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="413.0">16</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="425.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="433.0">2</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="425.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="433.0">15</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="445.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="453.0">3</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="445.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="453.0">14</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="465.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="473.0">4</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="465.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="473.0">13</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="485.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="493.0">5</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="485.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="493.0">12</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="505.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="513.0">6</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="505.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="513.0">11</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="525.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="533.0">7</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="525.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="533.0">10</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="660.0" y="545.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="670.0" y="553.0">8</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="804.0" y="545.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="814.0" y="553.0">9</text>
+</g>
+<g class="label_layer">
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="42.0" x="604.0" y="402.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="625.0" y="415.0">PWM1P</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="34.8" x="555.2" y="402.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="572.6" y="415.0">RxD2</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="506.40000000000003" y="402.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="523.8000000000001" y="415.0">ADC0</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="457.6" y="402.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="475.0" y="415.0">P1.0</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="402.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="415.0">P3.7</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="29.34375" x="878.8" y="402.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="893.471875" y="415.0">INT3</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="42.0" x="918.14375" y="402.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="939.14375" y="415.0">TxD_2</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="35.53125" x="970.14375" y="402.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="987.909375" y="415.0">CMP+</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="42.0" x="604.0" y="422.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="625.0" y="435.0">PWM1N</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="34.8" x="555.2" y="422.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="572.6" y="435.0">TxD2</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="506.40000000000003" y="422.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="523.8000000000001" y="435.0">ADC1</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="457.6" y="422.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="475.0" y="435.0">P1.1</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="422.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="435.0">P3.6</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="878.8" y="422.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="899.8" y="435.0">ADC14</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="29.0625" x="930.8" y="422.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="945.33125" y="435.0">INT2</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="42.0" x="969.8625" y="422.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="990.8625" y="435.0">RxD_2</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="32.515625" x="1021.8625" y="422.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1038.1203125" y="435.0">CMP-</text>
+<rect fill="#afcbbf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="604.0" y="442.5"/><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="625.0" y="455.0">XTALO</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="55.75" x="534.25" y="442.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="562.125" y="455.0">MCLKO_2</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="42.0" x="478.25" y="442.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="499.25" y="455.0">RxD_3</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="42.0" x="422.25" y="442.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="443.25" y="455.0">PWM4P</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="373.45" y="442.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="390.84999999999997" y="455.0">P1.6</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="442.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="455.0">P3.5</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="878.8" y="442.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="899.8" y="455.0">ADC13</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="16.3125" x="930.8" y="442.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="938.95625" y="455.0">T1</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="46.609375" x="957.1125" y="442.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="980.4171875" y="455.0">T0CLKO</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="30.734375" x="1013.721875" y="442.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1029.0890625" y="455.0">SS_4</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="1054.45625" y="442.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1079.0562499999999" y="455.0">PWMFLT</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="56.4" x="1113.65625" y="442.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1141.85625" y="455.0">PWMFLT2</text>
+<rect fill="#afcbbf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="604.0" y="462.5"/><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="625.0" y="475.0">XTALI</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="42.0" x="548.0" y="462.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="569.0" y="475.0">TxD_3</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="484.8" y="462.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="509.40000000000003" y="475.0">PWM5_2</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="42.0" x="428.8" y="462.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="449.8" y="475.0">PWM4N</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="380.0" y="462.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="397.4" y="475.0">P1.7</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="462.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="475.0">P3.4</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="878.8" y="462.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="899.8" y="475.0">ADC12</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="18.703125" x="930.8" y="462.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="940.1515625" y="475.0">T0</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="44.21875" x="959.503125" y="462.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="981.6125" y="475.0">T1CLKO</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="1013.721875" y="462.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1038.3218749999999" y="475.0">MOSI_4</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="56.4" x="1072.921875" y="462.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1101.121875" y="475.0">PWM4P_2</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="1139.321875" y="462.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1163.921875" y="475.0">PWM8_2</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="37.8125" x="1198.5218750000001" y="462.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1217.4281250000001" y="475.0">CMPO</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="44.15625" x="601.84375" y="482.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="623.921875" y="495.0">MCLKO</text>
+<rect fill="#55ff00" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="34.8" x="553.04375" y="482.5"/><text fill="#000000" font-family="Calibri" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="570.44375" y="495.0">NRST</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="489.84375000000006" y="482.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="514.44375" y="495.0">PWM6_2</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="441.04375000000005" y="482.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="458.44375" y="495.0">P5.4</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="482.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="495.0">P3.3</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="878.8" y="482.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="899.8" y="495.0">ADC11</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="27.71875" x="930.8" y="482.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="944.659375" y="495.0">INT1</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="968.51875" y="482.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="993.11875" y="495.0">MISO_4</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="1027.71875" y="482.5"/><text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1059.51875" y="495.0">I2CSDA_4</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="56.4" x="1101.31875" y="482.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1129.51875" y="495.0">PWM4N_2</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="1167.71875" y="482.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1192.31875" y="495.0">PWM7_2</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#37f06b" stroke-width="1" width="27.599999999999998" x="618.4" y="502.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="632.1999999999999" y="515.0">Vcc</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#37f06b" stroke-width="1" width="34.8" x="569.6" y="502.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="587.0" y="515.0">AVcc</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="502.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="515.0">P3.2</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="878.8" y="502.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="899.8" y="515.0">ADC10</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="30.109375" x="930.8" y="502.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="945.8546875" y="515.0">INT0</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="970.909375" y="502.5"/><text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="995.509375" y="515.0">SCLK_4</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="52.515625" x="1030.109375" y="502.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1056.3671875" y="515.0">I2CSCL_4</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="49.199999999999996" x="1092.625" y="502.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1117.225" y="515.0">PWMETI</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="56.4" x="1151.825" y="502.5"/><text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1180.025" y="515.0">PWMETI2</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="70.8" x="575.2" y="522.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="610.6" y="535.0">ADC_VRef+</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="522.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="535.0">P3.1</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="878.8" y="522.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="896.1999999999999" y="535.0">ADC9</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="27.599999999999998" x="923.5999999999999" y="522.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="937.3999999999999" y="535.0">TxD</text>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="27.599999999999998" x="618.4" y="542.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="632.1999999999999" y="555.0">Gnd</text>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="34.8" x="569.6" y="542.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="587.0" y="555.0">AGnd</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="34.8" x="834.0" y="542.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="851.4" y="555.0">P3.0</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="878.8" y="542.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="896.1999999999999" y="555.0">ADC8</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="27.599999999999998" x="923.5999999999999" y="542.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="937.3999999999999" y="555.0">RxD</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="29.921875" x="961.1999999999999" y="542.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="976.1609374999999" y="555.0">INT4</text>
+</g>
+<g class="legend_layer" transform="translate(20, 20)" id="legend">
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="100" x="0" y="0"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="50.0" y="12">GND</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#37f06b" stroke-width="1" width="100" x="0" y="20"/>
+<text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="32">VCC</text>
+<rect fill="#55ff00" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="40"/>
+<text fill="#000000" font-family="Calibri" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="52">RESET</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="100" x="0" y="60"/>
+<text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="72">GPIO</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="100" x="0" y="80"/>
+<text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="50.0" y="92">PWM</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="100"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="112">USART</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="120"/>
+<text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="132">I2C</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="140"/>
+<text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="50.0" y="152">SPI</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="160"/>
+<text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="172">ADC</text>
+<rect fill="#ffaaff" height="15" rx="3" ry="3" stroke="#00ff00" stroke-width="1" width="100" x="0" y="180"/>
+<text fill="#3f3f3f" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="192">DAC</text>
+<rect fill="#d2ffbd" height="15" rx="3" ry="3" stroke="#000000" stroke-width="2" width="100" x="104" y="0"/>
+<text fill="#3f3f3f" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="12">TIM</text>
+<rect fill="#0055ff" height="15" rx="3" ry="3" stroke="#007fff" stroke-width="1" width="100" x="104" y="20"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="32">I2S</text>
+<rect fill="#afcbbf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="40"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="52">XTAL</text>
+<rect fill="#024570" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="60"/>
+<text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="72">CAN</text>
+<rect fill="#7d1f21" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="80"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="92">LAN</text>
+<rect fill="#566a62" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="100"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="112">USB</text>
+<rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="120"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="132">SDIO</text>
+<rect fill="#0093cf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="140"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="152">SWD</text>
+<rect fill="#83de06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="160"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="172">JTAG</text>
+<rect fill="#e1e1e1" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="104" y="180"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="154.0" y="192">BOOT</text>
+<rect fill="#fea3a8" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="0"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="258.0" y="12">RTC</text>
+<rect fill="#48bced" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="20"/>
+<text fill="#000000" font-family="Calibri" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="32">WDG</text>
+<rect fill="#c6c6c6" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="40"/>
+<text fill="#ebffec" font-family="Aa细黑" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="52">NC</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="100" x="208" y="60"/>
+<text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="72">OTHER</text>
+</g>
+<text fill="#B2B2B2" font-family="Impact" font-size="26" font-weight="bold"  text-anchor="middle" x="742.0" y="445.0">STC</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="22" font-weight="bold" text-anchor="middle" x="742.0" y="475.0">8H1K17T</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="12" text-anchor="middle" x="742.0" y="495.0">SOP</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="10" text-anchor="middle" x="742.0" y="505.0">17 PIN</text>
+</svg>

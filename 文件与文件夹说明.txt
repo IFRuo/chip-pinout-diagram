@@ -1,0 +1,47 @@
+文件与文件夹说明.txt 文件 项目文件夹下文件与目录说明文件 之后在项目中添加,新建文件或目录时必须将文件说明追加到该文件
+项目需求与描述.txt  *该文件为对项目的描述与需求 必须认真阅读
+项目需求.md		正式项目需求文档（根据项目需求与描述.txt整理）
+项目流程计划.md	项目开发流程计划文档
+main.py		主程序入口
+Groupingstyle.gn	功能组样式文件 (功能组样式默认文件 软件启动加载 功能组以及样式被改动后保存入该文件)
+preset		功能组样式文件夹 (存放功能组样式默认文件以及功能组样式另存为和载入时默认路径)
+芯片引脚文件	芯片引脚文件文件夹 (芯片引脚定义文件文件夹 文件名无硬性规定 但保存文件时以"芯片名"-"分装类型"-"引脚数".txt格式)
+UI样式.svg	该文件内以SVG格式描述了"引脚功能分配区" "功能组样式窗口" "样式编辑窗口"UI样式 请关注每个元素的ID与class 它是名称或简单介绍
+PID16样式示意文件.svg		芯片绘制样式示意文件 PID封装样式 必须严格按照该样式和布局绘制
+QFN-32样式示意文件.svg	芯片绘制样式示意文件 PID封装样式 必须严格按照该样式和布局绘制
+QFP-32样式示意文件.svg	芯片绘制样式示意文件 PID封装样式 必须严格按照该样式和布局绘制
+基本设置配置文件的说明.txt	#该文件为基本设置配置文件的说明 但相关代码暂时未实现 
+代码模块:
+models/			数据模型目录
+  __init__.py
+  chip_model.py		芯片数据模型
+  pin_model.py		引脚数据模型
+  style_model.py	功能组样式数据模型
+ui/			UI模块目录
+  __init__.py
+  main_window.py	主窗口
+  pin_list_widget.py	引脚列表控件
+  svg_viewer.py	SVG显示控件
+utils/			工具模块目录
+  __init__.py
+  style_loader.py	样式文件加载器
+  file_parser.py	文件解析器
+  svg_generator.py	SVG生成器
+dialogs/		对话框模块目录
+  __init__.py
+  style_dialog.py	功能组样式选择窗口和样式编辑窗口
+
+其他文件和目录:
+.trae/			Trae IDE相关配置目录
+chip pinout diagram/	字体文件目录
+保存/			保存的芯片引脚文件和SVG文件目录
+QFN.SVG			QFN封装样式示意文件
+config.yaml		配置文件
+debug.log		调试日志文件
+
+test_basic.py		基本功能测试文件
+test_env.py		环境测试文件
+test_function_field.py	功能字段测试文件
+test_qt.py		Qt相关测试文件
+test_simple.py		简单功能测试文件
+test_svg.py		SVG生成测试文件

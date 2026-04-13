@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<svg width="640" height="480.0000000000001" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <!-- 线的端点-->
+  <marker id="se_marker_start_svg_0" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_69" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+ </defs>
+ <g class="layer">
+  <title>线</title>
+  <line fill="none" id="svg_line_01" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="564.580966" y1="152.049991" y2="152.049991"/>
+  <line fill="none" id="svg_line_02" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="566.48576" y1="173.016089" y2="173.016089"/>
+  <line fill="none" id="svg_line_03" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="568.39048" y1="213.364615" y2="213.364615"/>
+  <line fill="none" id="svg_line_04" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="575.692082" y1="192.925474" y2="192.925474"/>
+  <line fill="none" id="svg_line_05" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="558.549202" y1="234.848526" y2="234.848526"/>
+  <line fill="none" id="svg_line_06" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="506.579486" y1="256.094103" y2="256.094103"/>
+  <line fill="none" id="svg_line_07" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28451" x2="503.544396" y1="276.43539" y2="276.43539"/>
+  <line fill="none" id="svg_line_08" marker-start="url(#se_marker_start_svg_0)" stroke="#000000" x1="423.28454" x2="469.921853" y1="297.817158" y2="297.817158"/>
+  <line fill="none" id="svg_line_09" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="88.169311" x2="233.829147" y1="297.82485" y2="297.82485"/>
+  <line fill="none" id="svg_line_10" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="180.786099" x2="233.829147" y1="152.05768" y2="152.05768"/>
+  <line fill="none" id="svg_line_11" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="180.608165" x2="233.829147" y1="173.023786" y2="173.023786"/>
+  <line fill="none" id="svg_line_12" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="148.594842" x2="233.829147" y1="213.372307" y2="213.372307"/>
+  <line fill="none" id="svg_line_13" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="182.031647" x2="233.829147" y1="192.933166" y2="192.933166"/>
+  <line fill="none" id="svg_line_14" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="150.296969" x2="233.829147" y1="234.856218" y2="234.856218"/>
+  <line fill="none" id="svg_line_15" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="91.573566" x2="233.829147" y1="256.101795" y2="256.101795"/>
+  <line fill="none" id="svg_line_16" marker-end="url(#se_marker_start_svg_0)" stroke="#000000" x1="84.765049" x2="233.829147" y1="276.443082" y2="276.443082"/>
+ </g>
+ <g class="layer" display="inline">
+  <title>引脚层</title>
+  <rect fill="#cccccc" height="10" id="svg_pin_01" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="147.20065"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_02" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="208.689319"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_03" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="187.977343"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_04" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="168.236243"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_05" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="147.200652"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_06" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="230.048539"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_07" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="208.689322"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_08" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="187.977348"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_09" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="271.680612"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_10" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="168.236244"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_11" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="251.407771"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_12" rx="2" ry="2" stroke="#000000" width="20" x="394.01249" y="293.044372"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_13" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="293.044383"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_14" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="271.680618"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_15" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="251.407767"/>
+  <rect fill="#cccccc" height="10" id="svg_pin_16" rx="2" ry="2" stroke="#000000" width="20" x="244.01249" y="230.048541"/>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_1" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="154.898684">1</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_2" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="176.39596">2</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_3" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="196.027235">3</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_4" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="216.506622">4</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_5" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="237.442411">5</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_6" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="259.030566">6</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_7" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="279.234977">7</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_8" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="252.8997" xml:space="preserve" y="300.579849">8</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_9" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="300.579794">9</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_10" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="279.234965">10</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_11" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="259.030562">11</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_12" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="237.442418">12</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_13" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="216.506617">13</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_14" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.2861" xml:space="preserve" y="196.027239">14</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_15" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.4062" xml:space="preserve" y="176.395958">15</text>
+  <text fill="#000000" font-family="Cursive" font-size="8" id="svg_text_16" stroke="#ffffff" stroke-width="0" text-anchor="middle" x="403.2862" xml:space="preserve" y="154.89868">16</text>
+ </g>
+ <g class="layer" display="inline">
+  <title>芯片主体层</title>
+  <rect fill="#000000" height="200" id="svg_9" rx="10" ry="10" stroke="#000000" stroke-width="5" width="130" x="264" y="127.5"/>
+  <ellipse cx="279.40925" cy="142.404216" fill="#000000" id="svg_27" rx="5" ry="5" stroke="#ffffff"/>
+ </g>
+ <g class="layer" display="inline">
+  <title>标签层</title>
+  <rect fill="#ffff56" height="15" id="svg_4000" rx="3" ry="3" stroke="#000000" width="35" x="434.559547" y="144.188183"/>
+  <rect fill="#ead0d0" height="15" id="svg_4300" rx="3" ry="3" stroke="#000000" width="40" x="486.423504" y="144.422243"/>
+  <rect fill="#4291e5" height="15" id="svg_4400" rx="3" ry="3" stroke="#424242" width="33" x="544.406693" y="144.488185"/>
+  <rect fill="#ffff56" height="15" id="svg_5000" rx="3" ry="3" stroke="#000000" width="35" x="435.059526" y="165.705885"/>
+  <rect fill="#007f00" height="15" id="svg_4800" rx="3" ry="3" stroke="#000000" width="40" x="486.276585" y="165.463271"/>
+  <rect fill="#4291e5" height="15" id="svg_4700" rx="3" ry="3" stroke="#424242" width="33" x="544.406748" y="165.463269"/>
+  <rect fill="#ffff56" height="15" id="svg_5600" rx="3" ry="3" stroke="#000000" width="35" x="435.059565" y="185.405024"/>
+  <rect fill="#007f00" height="15" id="svg_5400" rx="3" ry="3" stroke="#000000" width="40" x="486.276609" y="185.405028"/>
+  <rect fill="#f7adad" height="15" id="svg_5300" rx="3" ry="3" stroke="#424242" width="40" x="544.106755" y="185.505025"/>
+  <rect fill="#ffff56" height="15" id="svg_5700" rx="3" ry="3" stroke="#000000" width="35" x="435.059527" y="205.836999"/>
+  <rect fill="#000000" height="15" id="svg_6100" rx="3" ry="3" stroke="#000000" width="50" x="435.159531" y="290.18311"/>
+  <rect fill="#ffff56" height="15" id="svg_5800" rx="3" ry="3" stroke="#000000" width="35" x="434.959514" y="227.282576"/>
+  <rect fill="#ffff56" height="15" id="svg_5900" rx="3" ry="3" stroke="#000000" width="35" x="435.159513" y="248.560056"/>
+  <rect fill="#ffff56" height="15" id="svg_6000" rx="3" ry="3" stroke="#000000" width="35" x="435.05953" y="268.871581"/>
+  <rect fill="#007f00" height="15" id="svg_7500" rx="3" ry="3" stroke="#000000" width="31" x="486.276596" y="205.849997"/>
+  <rect fill="#007f00" height="15" id="svg_7600" rx="3" ry="3" stroke="#000000" width="24" x="486.376611" y="227.349996"/>
+  <rect fill="#f7adad" height="15" id="svg_8400" rx="3" ry="3" stroke="#424242" width="40" x="534.878223" y="205.781887"/>
+  <rect fill="#f7adad" height="15" id="svg_8200" rx="3" ry="3" stroke="#424242" width="40" x="529.390134" y="227.256971"/>
+  <rect fill="#4291e5" height="15" id="svg_8000" rx="3" ry="3" stroke="#424242" width="33" x="134.534153" y="248.498727"/>
+  <rect fill="#ead0d0" height="15" id="svg_8600" rx="3" ry="3" stroke="#424242" width="40" x="127.663892" y="205.776014"/>
+  <rect fill="#ff0000" height="15" id="svg_1120" rx="3" ry="3" stroke="#000000" width="50" x="170.057316" y="144.188188"/>
+  <rect fill="#f7f700" height="15" id="svg_1118" rx="3" ry="3" stroke="#000000" width="50" x="170.057308" y="165.70589"/>
+  <rect fill="#ff0000" height="15" id="svg_1116" rx="3" ry="3" stroke="#000000" width="50" x="170.057307" y="185.405029"/>
+  <rect fill="#ffff56" height="15" id="svg_1114" rx="3" ry="3" stroke="#000000" width="35" x="185.057304" y="205.836988"/>
+  <rect fill="#ffff56" height="15" id="svg_1113" rx="3" ry="3" stroke="#000000" width="35" x="184.957291" y="227.282565"/>
+  <rect fill="#ffff56" height="15" id="svg_1112" rx="3" ry="3" stroke="#000000" width="35" x="185.157291" y="248.560061"/>
+  <rect fill="#ffff56" height="15" id="svg_1111" rx="3" ry="3" stroke="#000000" width="35" x="185.05731" y="268.871601"/>
+  <rect fill="#ffff56" height="15" id="svg_1110" rx="3" ry="3" stroke="#000000" width="35" x="185.157308" y="290.183099"/>
+  <rect fill="#ffffff" height="15" id="svg_1124" rx="3" ry="3" stroke="#000000" width="50" x="486.376597" y="248.535055"/>
+  <rect fill="#ffffff" height="15" id="svg_1123" rx="3" ry="3" stroke="#000000" width="50" x="486.376589" y="268.84658"/>
+  <rect fill="#4291e5" height="15" id="svg_1126" rx="3" ry="3" stroke="#424242" width="33" x="134.534153" y="227.29016"/>
+  <rect fill="#007fff" height="15" id="svg_1130" rx="3" ry="3" stroke="#424242" width="33" x="134.534161" y="290.356728"/>
+  <rect fill="#007fff" height="15" id="svg_1128" rx="3" ry="3" stroke="#424242" width="33" x="134.534161" y="268.880065"/>
+  <rect fill="#00ffff" height="15" id="svg_1136" rx="3" ry="3" stroke="#424242" width="40" x="76.614231" y="248.564517"/>
+  <rect fill="#00ffff" height="15" id="svg_1134" rx="3" ry="3" stroke="#424242" width="40" x="76.61423" y="268.841379"/>
+  <rect fill="#00ffff" height="15" id="svg_1132" rx="3" ry="3" stroke="#424242" width="40" x="76.614236" y="290.316463"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_42" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.05953" xml:space="preserve" y="157.469009">PB0</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_45" stroke="#000000" stroke-width="0" text-anchor="middle" x="506.423515" xml:space="preserve" y="157.436398">PWM3</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_46" stroke="#000000" stroke-width="0" text-anchor="middle" x="560.971576" xml:space="preserve" y="157.669021">TX3</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_49" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.559527" xml:space="preserve" y="178.955881">PB1</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_41" stroke="#000000" stroke-width="0" text-anchor="middle" x="506.423524" xml:space="preserve" y="178.71327">MOSI</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_39" stroke="#000000" stroke-width="0" text-anchor="middle" x="560.971583" xml:space="preserve" y="178.713267">RX3</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_55" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.559566" xml:space="preserve" y="198.685864">PB2</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_52" stroke="#000000" stroke-width="0" text-anchor="middle" x="506.423524" xml:space="preserve" y="198.68588">MISO</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_51" stroke="#000000" stroke-width="0" text-anchor="middle" x="564.106736" xml:space="preserve" y="198.585877">DAC0</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_70" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.559532" xml:space="preserve" y="218.949997">PB3</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_71" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.459512" xml:space="preserve" y="240.549995">PA0</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_72" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.459525" xml:space="preserve" y="261.849994">PA1</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_73" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="452.459507" xml:space="preserve" y="282.149993">PA2</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_74" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="460.15949" xml:space="preserve" y="303.549994">GND</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_77" stroke="#000000" stroke-width="0" text-anchor="middle" x="502.423487" xml:space="preserve" y="218.999996">SCK</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_78" stroke="#000000" stroke-width="0" text-anchor="middle" x="498.423487" xml:space="preserve" y="240.599996">SS</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_83" stroke="#000000" stroke-width="0" text-anchor="middle" x="554.878232" xml:space="preserve" y="218.962723">DAC1</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_81" stroke="#000000" stroke-width="0" text-anchor="middle" x="549.390107" xml:space="preserve" y="240.506969">DAC2</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1109" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="202.557309" xml:space="preserve" y="218.950017">PA7</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_79" stroke="#000000" stroke-width="0" text-anchor="middle" x="151.099024" xml:space="preserve" y="261.979579">TX1</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_85" stroke="#000000" stroke-width="0" text-anchor="middle" x="147.663878" xml:space="preserve" y="219.256865">PWM3</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1119" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="194.406061" xml:space="preserve" y="157.468998">VCC</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1117" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="195.05731" xml:space="preserve" y="178.95587">RESET</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1115" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="195.617841" xml:space="preserve" y="198.685853">AVCC</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1108" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="202.45732" xml:space="preserve" y="240.549969">PA6</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1107" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="202.65729" xml:space="preserve" y="261.850029">PA5</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1106" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="202.557327" xml:space="preserve" y="282.149952">PA4</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1105" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="202.657278" xml:space="preserve" y="303.549983">PA3</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1122" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="511.376596" xml:space="preserve" y="261.824993">XTALI</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1121" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="511.376639" xml:space="preserve" y="282.124992">XTALO</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1125" stroke="#000000" stroke-width="0" text-anchor="middle" x="151.099024" xml:space="preserve" y="240.771012">RX1</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1129" stroke="#000000" stroke-width="0" text-anchor="middle" x="151.099032" xml:space="preserve" y="303.83758">SCL</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1127" stroke="#000000" stroke-width="0" text-anchor="middle" x="151.099032" xml:space="preserve" y="282.360917">SDA</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1135" stroke="#000000" stroke-width="0" text-anchor="middle" x="96.614233" xml:space="preserve" y="261.645369">ADC0</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1133" stroke="#000000" stroke-width="0" text-anchor="middle" x="96.614227" xml:space="preserve" y="282.022215">ADC1</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1131" stroke="#000000" stroke-width="0" text-anchor="middle" x="96.614235" xml:space="preserve" y="303.566461">ADC2</text>
+ </g>
+ <g class="layer" display="inline">
+  <title>组说明</title>
+  <rect fill="#ff0000" height="15" id="svg_1138" rx="3" ry="3" stroke="#000000" width="100" x="26.465337" y="33.044133"/>
+  <rect fill="#ffff56" height="15" id="svg_1140" rx="3" ry="3" stroke="#000000" width="100" x="26.465338" y="49.652282"/>
+  <rect fill="#ead0d0" height="15" id="svg_1142" rx="3" ry="3" stroke="#424242" width="100" x="26.465338" y="66.202137"/>
+  <rect fill="#4291e5" height="15" id="svg_1146" rx="3" ry="3" stroke="#424242" width="100" x="26.465337" y="82.698591"/>
+  <rect fill="#007fff" height="15" id="svg_1144" rx="3" ry="3" stroke="#424242" width="100" x="26.465339" y="99.368982"/>
+  <rect fill="#000000" height="15" id="svg_1148" rx="3" ry="3" stroke="#000000" width="100" x="26.465338" y="16.362302"/>
+  <rect fill="#007f00" height="15" id="svg_1150" rx="3" ry="3" stroke="#000000" width="100" x="26.465337" y="116.083227"/>
+  <rect fill="#f7adad" height="15" id="svg_1154" rx="3" ry="3" stroke="#424242" width="100" x="26.465339" y="132.796326"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1137" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="76.465339" xml:space="preserve" y="46.324944">VCC</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1139" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="76.465341" xml:space="preserve" y="62.76531">GPIO</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1141" stroke="#000000" stroke-width="0" text-anchor="middle" x="76.465331" xml:space="preserve" y="79.682988">PWM</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1145" stroke="#000000" stroke-width="0" text-anchor="middle" x="76.465339" xml:space="preserve" y="95.94078">USART</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1143" stroke="#000000" stroke-width="0" text-anchor="middle" x="76.465337" xml:space="preserve" y="112.84983">I2C</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1147" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="76.465339" xml:space="preserve" y="29.729186">GND</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1149" stroke="#000000" stroke-width="0" text-anchor="middle" x="76.465336" xml:space="preserve" y="129.33322">SPI</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1153" stroke="#000000" stroke-width="0" text-anchor="middle" x="76.465338" xml:space="preserve" y="145.87717">DAC0</text>
+  <text fill="#ffffff" font-family="Fantasy" font-size="18" font-weight="bold" id="svg_1" stroke="#666666" stroke-width="0.2" text-anchor="middle" transform="rotate(-90 307.447 228.549)" x="307.586209" xml:space="preserve" y="235.816481">STC</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="12" id="svg_2" stroke="#666666" stroke-width="0" text-anchor="middle" transform="rotate(-90 332.3 229.718)" x="332.299787" xml:space="preserve" y="233.99262">STC8H1K08</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="8" id="svg_3" stroke="#666666" stroke-width="0" text-anchor="middle" transform="rotate(-90 354.243 227.694)" x="354.243359" xml:space="preserve" y="230.544143">PID-16</text>
+ </g>
+</svg>

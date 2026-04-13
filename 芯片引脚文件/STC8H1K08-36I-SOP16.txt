@@ -1,0 +1,18 @@
+/* STC8H1K08-36I-SOP16  */
+
+ *   1: PWM1P/RxD2/ADC0/P1.0                           
+ *   2: PWM1N/TxD2/ADC1/P1.1                           
+ *   3: XTALO/MCLKO_2/RxD_3/PWM4P/P1.6                 
+ *   4: XTALI/TxD_3/PWM5_2/PWM4N/P1.7                  
+ *   5: MCLKO/NRST/PWM6_2/P5.4                         
+ *   6: Vcc/AVcc                                       
+ *   7: ADC_VRef+                                      
+ *   8: Gnd/AGnd                                       
+ *   9: P3.0/ADC8/RxD/INT4                             
+ *  10: P3.1/ADC9/TxD                                  
+ *  11: P3.2/ADC10/INT0/SCLK_4/I2CSCL_4/PWMETI/PWMETI2 
+ *  12: P3.3/ADC11/INT1/MISO_4/I2CSDA_4/PWM4N_2/PWM7_2 
+ *  13: P3.4/ADC12/T0/T1CLKO/MOSI_4/PWM4P_2/PWM8_2/CMPO
+ *  14: P3.5/ADC13/T1/T0CLKO/SS_4/PWMFLT/PWMFLT2       
+ *  15: P3.6/ADC14/INT2/RxD_2/CMP-                     
+ *  16: P3.7/INT3/TxD_2/CMP+                           

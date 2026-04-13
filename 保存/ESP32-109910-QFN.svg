@@ -1,0 +1,206 @@
+<svg width="1600" height="1024" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="1024" fill="#555555" />
+<defs>
+  <marker id="pin_marker" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" fill="#000000" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+</defs>
+<rect fill="#000000" height="240" rx="10" ry="10" stroke="#000000" stroke-width="5" width="240" x="680" y="392"/>
+<ellipse cx="690" cy="402" fill="#000000" rx="5" ry="5" stroke="#ffffff" stroke-width= "1"/>
+<rect fill="#cccccc" height="181.36363636363635" rx="6" ry="6" stroke="#ffffff" stroke-width="0" width="177.0" x="712.0" y="422.0"/>
+<g class="pin_layer">
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="417.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="425.0">1</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="437.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="445.0">2</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="457.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="465.0">3</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="477.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="485.0">4</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="497.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="505.0">5</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="517.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="525.0">6</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="537.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="545.0">7</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="557.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="565.0">8</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="577.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="585.0">9</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="678" y="597.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="685.5" y="605.0">10</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="705.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="706.4285714285714" y="626.5" transform="rotate(90, 706.4285714285714, 626.5)">11</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="725.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="726.4285714285714" y="626.5" transform="rotate(90, 726.4285714285714, 626.5)">12</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="745.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="746.4285714285714" y="626.5" transform="rotate(90, 746.4285714285714, 626.5)">13</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="765.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="766.4285714285714" y="626.5" transform="rotate(90, 766.4285714285714, 626.5)">14</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="785.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="786.4285714285714" y="626.5" transform="rotate(90, 786.4285714285714, 626.5)">15</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="805.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="806.4285714285714" y="626.5" transform="rotate(90, 806.4285714285714, 626.5)">16</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="825.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="826.4285714285714" y="626.5" transform="rotate(90, 826.4285714285714, 626.5)">17</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="845.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="846.4285714285714" y="626.5" transform="rotate(90, 846.4285714285714, 626.5)">18</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="865.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="866.4285714285714" y="626.5" transform="rotate(90, 866.4285714285714, 626.5)">19</text>
+<rect fill="#cccccc" height="15" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="10" x="885.0" y="619"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="886.4285714285714" y="626.5" transform="rotate(90, 886.4285714285714, 626.5)">20</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="587.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="595.0">21</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="567.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="575.0">22</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="547.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="555.0">23</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="527.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="535.0">24</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="507.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="515.0">25</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="487.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="495.0">26</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="467.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="475.0">27</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="447.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="455.0">28</text>
+<rect fill="#cccccc" height="10" rx="0.5" ry="0.5" stroke="#000000" stroke-width="0" width="15" x="907" y="427.0"/>
+<text fill="#000000" font-family="Arial" font-size="10" stroke="#ffffff" text-anchor="middle" x="914.5" y="435.0">29</text>
+</g>
+<g class="label_layer">
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="27.599999999999998" x="633.4" y="414.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="647.1999999999999" y="427.0">GND</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#37f06b" stroke-width="1" width="27.599999999999998" x="633.4" y="434.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="647.1999999999999" y="447.0">3V3</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="20.34375" x="640.65625" y="454.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="650.828125" y="467.0">EN</text>
+<rect fill="#83de06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="626.2" y="474.5"/><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="643.6" y="487.0">MTMS</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="571.0" y="474.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="595.6" y="487.0">GPIO04</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="63.296875" x="501.703125" y="474.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="533.3515625" y="487.0">LP_GPIO04</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="85.2" x="410.503125" y="474.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="453.10312500000003" y="487.0">LP_UART_RXD</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="340.90312500000005" y="474.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="372.70312500000006" y="487.0">ADC1_CH4</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="285.70312500000006" y="474.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="310.3031250000001" y="487.0">FSPIHD</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="33.390625" x="627.609375" y="494.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="644.3046875" y="507.0">MTDI</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="572.409375" y="494.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="597.009375" y="507.0">GPIO05</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="62.78125" x="503.62812499999995" y="494.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="535.01875" y="507.0">LP_GPIO05</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="85.2" x="412.42812499999997" y="494.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="455.028125" y="507.0">LP_UART_TXD</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="342.828125" y="494.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="374.628125" y="507.0">ADC1_CH5</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="287.628125" y="494.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="312.22812500000003" y="507.0">FSPIWP</text>
+<rect fill="#83de06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="626.2" y="514.5"/><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="643.6" y="527.0">MTCK</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="571.0" y="514.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="595.6" y="527.0">GPIO06</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="63.515625" x="501.484375" y="514.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="533.2421875" y="527.0">LP_GPIO06</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="417.484375" y="514.5"/><text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="456.484375" y="527.0">LP_I2C_SDA</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="347.884375" y="514.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="379.684375" y="527.0">ADC1_CH6</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="285.484375" y="514.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="313.684375" y="527.0">FSPICLK</text>
+<rect fill="#83de06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="34.8" x="626.2" y="534.5"/><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="643.6" y="547.0">MTDO</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="571.0" y="534.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="595.6" y="547.0">GPIO07</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="62.5625" x="502.4375" y="534.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="533.71875" y="547.0">LP_GPIO07</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="418.4375" y="534.5"/><text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="457.4375" y="547.0">LP_I2C_SCL</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="370.4375" y="534.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="391.4375" y="547.0">FSPID</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="42.0" x="619.0" y="554.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="640.0" y="567.0">GPIO0</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="69.0625" x="543.9375" y="554.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="578.46875" y="567.0">XTAL_32K_P</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="63.484375" x="474.453125" y="554.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="506.1953125" y="567.0">LP_GPIO00</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="92.39999999999999" x="376.053125" y="554.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="422.253125" y="567.0">LP_UART_DTRN</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="306.453125" y="554.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="338.253125" y="567.0">ADC1_CH0</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="42.0" x="619.0" y="574.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="640.0" y="587.0">GPIO1</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="70.515625" x="542.484375" y="574.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="577.7421875" y="587.0">XTAL_32K_N</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="61.09375" x="475.390625" y="574.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="505.9375" y="587.0">LP_GPIO01</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="92.39999999999999" x="376.990625" y="574.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="423.190625" y="587.0">LP_UART_DSRN</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="307.390625" y="574.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="339.190625" y="587.0">ADC1_CH1</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="42.0" x="619.0" y="594.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="640.0" y="607.0">GPIO8</text>
+<g transform="translate(710.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(710.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO10</text></g></g>
+<g transform="translate(730.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(730.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO11</text></g></g>
+<g transform="translate(750.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(750.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO12</text></g></g>
+<g transform="translate(750.0, 706.2)"><g transform="rotate(90)"><rect fill="#566a62" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="0" y="-7.5"/></g></g><g transform="translate(750.0, 706.2)"><g transform="rotate(90)"><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="21.0" y="5">USB_D</text></g></g>
+<g transform="translate(770.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(770.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO13</text></g></g>
+<g transform="translate(770.0, 706.2)"><g transform="rotate(90)"><rect fill="#566a62" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(770.0, 706.2)"><g transform="rotate(90)"><text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">USB_D+</text></g></g>
+<g transform="translate(790.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(790.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO09</text></g></g>
+<g transform="translate(810.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(810.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO18</text></g></g>
+<g transform="translate(810.0, 706.2)"><g transform="rotate(90)"><rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="0" y="-7.5"/></g></g><g transform="translate(810.0, 706.2)"><g transform="rotate(90)"><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="31.799999999999997" y="5">SDIO_CMD</text></g></g>
+<g transform="translate(810.0, 775.8000000000001)"><g transform="rotate(90)"><rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="0" y="-7.5"/></g></g><g transform="translate(810.0, 775.8000000000001)"><g transform="rotate(90)"><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="28.2" y="5">FSPICS2</text></g></g>
+<g transform="translate(830.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(830.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO19</text></g></g>
+<g transform="translate(830.0, 706.2)"><g transform="rotate(90)"><rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="0" y="-7.5"/></g></g><g transform="translate(830.0, 706.2)"><g transform="rotate(90)"><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="31.799999999999997" y="5">SDIO_CLK</text></g></g>
+<g transform="translate(830.0, 775.8000000000001)"><g transform="rotate(90)"><rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="0" y="-7.5"/></g></g><g transform="translate(830.0, 775.8000000000001)"><g transform="rotate(90)"><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="28.2" y="5">FSPICS3</text></g></g>
+<g transform="translate(850.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(850.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO20</text></g></g>
+<g transform="translate(850.0, 706.2)"><g transform="rotate(90)"><rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="0" y="-7.5"/></g></g><g transform="translate(850.0, 706.2)"><g transform="rotate(90)"><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="39.0" y="5">SDIO_DATA0</text></g></g>
+<g transform="translate(850.0, 790.2)"><g transform="rotate(90)"><rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="0" y="-7.5"/></g></g><g transform="translate(850.0, 790.2)"><g transform="rotate(90)"><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="28.2" y="5">FSPICS4</text></g></g>
+<g transform="translate(870.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(870.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO21</text></g></g>
+<g transform="translate(870.0, 706.2)"><g transform="rotate(90)"><rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="0" y="-7.5"/></g></g><g transform="translate(870.0, 706.2)"><g transform="rotate(90)"><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="39.0" y="5">SDIO_DATA1</text></g></g>
+<g transform="translate(870.0, 790.2)"><g transform="rotate(90)"><rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="0" y="-7.5"/></g></g><g transform="translate(870.0, 790.2)"><g transform="rotate(90)"><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="28.2" y="5">FSPICS5</text></g></g>
+<g transform="translate(890.0, 651)"><g transform="rotate(90)"><rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="0" y="-7.5"/></g></g><g transform="translate(890.0, 651)"><g transform="rotate(90)"><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="24.599999999999998" y="5">GPIO22</text></g></g>
+<g transform="translate(890.0, 706.2)"><g transform="rotate(90)"><rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="0" y="-7.5"/></g></g><g transform="translate(890.0, 706.2)"><g transform="rotate(90)"><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="39.0" y="5">SDIO_DATA2</text></g></g>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="939" y="584.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="963.6" y="597.0">GPIO23</text>
+<rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="78.0" x="994.2" y="584.5"/><text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1033.2" y="597.0">SDIO_DATA3</text>
+<rect fill="#c6c6c6" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="20.4" x="939" y="564.5"/><text fill="#ebffec" font-family="Aa细黑" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="949.2" y="577.0">NC</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="939" y="544.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="963.6" y="557.0">GPIO15</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="42.46875" x="939" y="524.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="960.234375" y="537.0">U0RXD</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="987.46875" y="524.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1012.06875" y="537.0">GPIO17</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="1042.66875" y="524.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1070.86875" y="537.0">FSPICS1</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="41.3125" x="939" y="504.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="959.65625" y="517.0">U0TXD</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="986.3125" y="504.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1010.9125" y="517.0">GPIO16</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="56.4" x="1041.5125" y="504.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1069.7125" y="517.0">FSPICS0</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="939" y="484.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="963.6" y="497.0">GPIO03</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="56.125" x="994.2" y="484.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1022.2625" y="497.0">LP_GPIO3</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="92.39999999999999" x="1056.325" y="484.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1102.525" y="497.0">LP_UART_CTSN</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="1154.7250000000001" y="484.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1186.525" y="497.0">ADC1_CH3</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="49.199999999999996" x="939" y="464.5"/><text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="963.6" y="477.0">GPIO02</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="55.84375" x="994.2" y="464.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1022.121875" y="477.0">LP_GPIO2</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="92.39999999999999" x="1056.04375" y="464.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1102.24375" y="477.0">LP_UART_RTSN</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="63.599999999999994" x="1154.4437500000001" y="464.5"/><text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="1186.24375" y="477.0">ADC1_CH2</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="42.0" x="1224.04375" y="464.5"/><text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="1245.04375" y="477.0">FSPIQ</text>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="27.599999999999998" x="939" y="444.5"/><text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="952.8" y="457.0">GND</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="33.765625" x="939" y="424.5"/><text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="955.8828125" y="437.0">EPAD</text>
+</g>
+<g class="legend_layer" transform="translate(20, 20)" id="legend">
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ebffec" stroke-width="1" width="100" x="0" y="0"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="italic" text-anchor="middle" x="50.0" y="12">GND</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#37f06b" stroke-width="1" width="100" x="0" y="20"/>
+<text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="32">VCC</text>
+<rect fill="#55ff00" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="40"/>
+<text fill="#000000" font-family="Calibri" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="52">RESET</text>
+<rect fill="#ffff56" height="15" rx="7" ry="7" stroke="#000000" stroke-width="1" width="100" x="0" y="60"/>
+<text fill="#000000" font-family="Arial" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="72">GPIO</text>
+<rect fill="#a3bf06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="0" width="100" x="0" y="80"/>
+<text fill="#ffffff" font-family="Aa细黑" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="50.0" y="92">PWM</text>
+<rect fill="#ff8302" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="100"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="112">USART</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="120"/>
+<text fill="#E0E0E0" font-family="Adobe 黑体 Std R" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="132">I2C</text>
+<rect fill="#ff0f2c" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="140"/>
+<text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="50.0" y="152">SPI</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="160"/>
+<text fill="#000000" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="172">ADC</text>
+<rect fill="#ffaaff" height="15" rx="2" ry="2" stroke="#00ff00" stroke-width="1" width="100" x="0" y="180"/>
+<text fill="#3f3f3f" font-family="Bahnschrift Light" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="192">DAC</text>
+<rect fill="#d2ffbd" height="15" rx="3" ry="3" stroke="#000000" stroke-width="2" width="100" x="104" y="0"/>
+<text fill="#3f3f3f" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="12">TIM</text>
+<rect fill="#0055ff" height="15" rx="3" ry="3" stroke="#007fff" stroke-width="1" width="100" x="104" y="20"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="32">I2S</text>
+<rect fill="#afcbbf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="40"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="52">XTAL</text>
+<rect fill="#024570" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="60"/>
+<text fill="#ffffff" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="72">CAN</text>
+<rect fill="#7d1f21" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="80"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="92">LAN</text>
+<rect fill="#566a62" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="100"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="112">USB</text>
+<rect fill="#757877" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="120"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="132">SDIO</text>
+<rect fill="#0093cf" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="140"/>
+<text fill="#ebffec" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="152">SWD</text>
+<rect fill="#83de06" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="104" y="160"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="172">JTAG</text>
+<rect fill="#e1e1e1" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="104" y="180"/>
+<text fill="#f00101" font-family="Cursive" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="154.0" y="192">BOOT</text>
+<rect fill="#fea3a8" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="0"/>
+<text fill="#000000" font-family="Cursive" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" x="258.0" y="12">RTC</text>
+<rect fill="#48bced" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="20"/>
+<text fill="#000000" font-family="Calibri" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="32">WDG</text>
+<rect fill="#c6c6c6" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="208" y="40"/>
+<text fill="#ebffec" font-family="Aa细黑" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="52">NC</text>
+<rect fill="#FFFFFF" height="15" rx="3" ry="3" stroke="#757575" stroke-width="1" width="100" x="208" y="60"/>
+<text fill="#000000" font-family="Candara" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" x="258.0" y="72">OTHER</text>
+</g>
+<text fill="#B2B2B2" font-family="Impact" font-size="26" font-weight="bold"  text-anchor="middle" x="800" y="477">ESP</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="22" font-weight="bold" text-anchor="middle" x="800" y="507">32</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="12" text-anchor="middle" x="800" y="527">QFN</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="10" text-anchor="middle" x="800" y="537">38 PIN</text>
+</svg>

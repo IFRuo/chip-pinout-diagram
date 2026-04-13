@@ -1,0 +1,134 @@
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <marker id="pin_marker" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" fill="#000000" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+</defs>
+<rect fill="#000000" height="190" rx="10" ry="10" stroke="#000000" stroke-width="5" width="190" x="545" y="385"/>
+<ellipse cx="560" cy="400" fill="#000000" rx="5" ry="5" stroke="#ffffff"/>
+<g class="pin_layer">
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="561.1111111111111" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="566.1111111111111" y="373">1</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="582.2222222222222" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="587.2222222222222" y="373">2</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="603.3333333333334" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="608.3333333333334" y="373">3</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="624.4444444444445" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="629.4444444444445" y="373">4</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="645.5555555555555" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="650.5555555555555" y="373">5</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="666.6666666666666" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="671.6666666666666" y="373">6</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="687.7777777777778" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="692.7777777777778" y="373">7</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="708.8888888888889" y="365"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="713.8888888888889" y="373">8</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="401.1111111111111"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="409.1111111111111">9</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="422.22222222222223"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="430.22222222222223">10</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="443.3333333333333"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="451.3333333333333">11</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="464.44444444444446"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="472.44444444444446">12</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="485.55555555555554"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="493.55555555555554">13</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="506.66666666666663"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="514.6666666666666">14</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="527.7777777777778"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="535.7777777777778">15</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="735" y="548.8888888888889"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="745" y="556.8888888888889">16</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="708.8888888888889" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="713.8888888888889" y="583">17</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="687.7777777777778" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="692.7777777777778" y="583">18</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="666.6666666666666" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="671.6666666666666" y="583">19</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="645.5555555555555" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="650.5555555555555" y="583">20</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="624.4444444444445" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="629.4444444444445" y="583">21</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="603.3333333333334" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="608.3333333333334" y="583">22</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="582.2222222222222" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="587.2222222222222" y="583">23</text>
+<rect fill="#cccccc" height="20" rx="2" ry="2" stroke="#000000" width="10" x="561.1111111111111" y="575"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="566.1111111111111" y="583">24</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="548.8888888888889"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="556.8888888888889">25</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="527.7777777777778"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="535.7777777777778">26</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="506.6666666666667"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="514.6666666666667">27</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="485.55555555555554"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="493.55555555555554">28</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="464.44444444444446"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="472.44444444444446">29</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="443.33333333333337"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="451.33333333333337">30</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="422.22222222222223"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="430.22222222222223">31</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" width="20" x="525" y="401.1111111111111"/>
+<text fill="#000000" font-family="Cursive" font-size="8" stroke="#ffffff" text-anchor="middle" x="535.0" y="409.1111111111111">32</text>
+</g>
+<g class="label_layer">
+<g transform="rotate(-90, 566.1111111111111, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="551.1111111111111" y="337.5"/></g><g transform="rotate(-90, 566.1111111111111, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="566.1111111111111" y="350">P1</text></g>
+<g transform="rotate(-90, 587.2222222222222, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="572.2222222222222" y="337.5"/></g><g transform="rotate(-90, 587.2222222222222, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="587.2222222222222" y="350">P2</text></g>
+<g transform="rotate(-90, 608.3333333333334, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="593.3333333333334" y="337.5"/></g><g transform="rotate(-90, 608.3333333333334, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="608.3333333333334" y="350">P3</text></g>
+<g transform="rotate(-90, 629.4444444444445, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="614.4444444444445" y="337.5"/></g><g transform="rotate(-90, 629.4444444444445, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="629.4444444444445" y="350">P4</text></g>
+<g transform="rotate(-90, 650.5555555555555, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="635.5555555555555" y="337.5"/></g><g transform="rotate(-90, 650.5555555555555, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="650.5555555555555" y="350">P5</text></g>
+<g transform="rotate(-90, 671.6666666666666, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="656.6666666666666" y="337.5"/></g><g transform="rotate(-90, 671.6666666666666, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="671.6666666666666" y="350">P6</text></g>
+<g transform="rotate(-90, 692.7777777777778, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="677.7777777777778" y="337.5"/></g><g transform="rotate(-90, 692.7777777777778, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="692.7777777777778" y="350">P7</text></g>
+<g transform="rotate(-90, 713.8888888888889, 345)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="698.8888888888889" y="337.5"/></g><g transform="rotate(-90, 713.8888888888889, 345)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="713.8888888888889" y="350">P8</text></g>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="30" x="765" y="398.6111111111111"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="780.0" y="411.1111111111111">P9</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="419.72222222222223"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="432.22222222222223">P10</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="440.8333333333333"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="453.3333333333333">P11</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="461.94444444444446"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="474.44444444444446">P12</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="483.05555555555554"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="495.55555555555554">P13</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="504.16666666666663"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="516.6666666666666">P14</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="525.2777777777778"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="537.7777777777778">P15</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="765" y="546.3888888888889"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="785.0" y="558.8888888888889">P16</text>
+<g transform="rotate(90, 713.8888888888889, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="693.8888888888889" y="597.5"/></g><g transform="rotate(90, 713.8888888888889, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="713.8888888888889" y="610">P17</text></g>
+<g transform="rotate(90, 692.7777777777778, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="672.7777777777778" y="597.5"/></g><g transform="rotate(90, 692.7777777777778, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="692.7777777777778" y="610">P18</text></g>
+<g transform="rotate(90, 671.6666666666666, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="651.6666666666666" y="597.5"/></g><g transform="rotate(90, 671.6666666666666, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="671.6666666666666" y="610">P19</text></g>
+<g transform="rotate(90, 650.5555555555555, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="630.5555555555555" y="597.5"/></g><g transform="rotate(90, 650.5555555555555, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="650.5555555555555" y="610">P20</text></g>
+<g transform="rotate(90, 629.4444444444445, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="609.4444444444445" y="597.5"/></g><g transform="rotate(90, 629.4444444444445, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="629.4444444444445" y="610">P21</text></g>
+<g transform="rotate(90, 608.3333333333334, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="588.3333333333334" y="597.5"/></g><g transform="rotate(90, 608.3333333333334, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="608.3333333333334" y="610">P22</text></g>
+<g transform="rotate(90, 587.2222222222222, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="567.2222222222222" y="597.5"/></g><g transform="rotate(90, 587.2222222222222, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="587.2222222222222" y="610">P23</text></g>
+<g transform="rotate(90, 566.1111111111111, 605)"><rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="546.1111111111111" y="597.5"/></g><g transform="rotate(90, 566.1111111111111, 605)"><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="566.1111111111111" y="610">P24</text></g>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="546.3888888888889"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="558.8888888888889">P25</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="525.2777777777778"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="537.7777777777778">P26</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="504.1666666666667"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="516.6666666666667">P27</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="483.05555555555554"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="495.55555555555554">P28</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="461.94444444444446"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="474.44444444444446">P29</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="440.83333333333337"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="453.33333333333337">P30</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="419.72222222222223"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="432.22222222222223">P31</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="40" x="475" y="398.6111111111111"/><text fill="#000000" font-family="Cursive" font-size="16" text-anchor="middle" x="495.0" y="411.1111111111111">P32</text>
+</g>
+<g class="legend_layer" transform="translate(20, 20)"><g>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="0"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="12">GND</text>
+<rect fill="#FF0000" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="20"/>
+<text fill="#000000" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="32">VCC</text>
+<rect fill="#f7f700" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="40"/>
+<text fill="#000000" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="52">RESET</text>
+<rect fill="#ffff56" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="60"/>
+<text fill="#000000" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="72">GPIO</text>
+<rect fill="#ead0d0" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="80"/>
+<text fill="#3f3f3f" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="92">PWM</text>
+<rect fill="#4291e5" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="100"/>
+<text fill="#FFFFFF" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="112">USART</text>
+<rect fill="#007fff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="120"/>
+<text fill="#E0E0E0" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="132">I2C</text>
+<rect fill="#007f00" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="140"/>
+<text fill="#3f3f3f" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="152">SPI</text>
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#424242" stroke-width="1" width="100" x="0" y="160"/>
+<text fill="#000000" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="172">ADC</text>
+<rect fill="#ffaaaa" height="15" rx="3" ry="3" stroke="#565656" stroke-width="1" width="100" x="0" y="180"/>
+<text fill="#3f3f3f" font-family="Cursive" font-size="14" text-anchor="middle" x="50.0" y="192">DAC</text>
+</g></g>
+<text fill="#ffffff" font-family="Fantasy" font-size="22" font-weight="bold" text-anchor="middle" x="320" y="220"></text>
+<text fill="#ffffff" font-family="Cursive" font-size="12" text-anchor="middle" x="320" y="240">QFP</text>
+<text fill="#ffffff" font-family="Cursive" font-size="8" text-anchor="middle" x="320" y="255">32 PIN</text>
+</svg>

@@ -1,0 +1,114 @@
+#该文件暂时未使用
+#该文件为基本设置配置文件的说明 但相关代码暂时未实现 
+# 画板 ===
+	#画板大小
+	svg_width = 640
+	svg_height = 480
+	画板背景色 = 0xRRGGBB
+	
+# 图例参数
+	图例图层=int #表示它的图层高度
+	egend_x = 20  # 图例起始X坐标
+	legend_y = 20  # 图例起始Y坐标
+	self._legend_items_per_column = 10  # 每列显示的图例项数量
+	图例项纵间距 int #图例项之间的垂直间距
+	self._legend_column_spacing = 4  # 图例项列间距
+	图例项圆角=int #图例项的圆角半径
+	legend_item_height = 20  # 图例项高度
+	legend_item_width = 100  # 图例项宽度
+	legend_font_size = 14  # 图例字体大小
+	legend_font_family = "Cursive"  # 图例字体 ! 取消该参数 使用功能组样式字体设置
+		
+# 芯片主体参数
+	芯片文本图层=int #芯片标题 芯片信息的图层高度
+	chip_title_font_size = 22  # 芯片标题字体大小
+	chip_title_font_family = "Fantasy"  # 芯片标题字体
+	chip_info_font_size = 12  # 芯片信息字体大小
+	chip_info_font_family = "Cursive"  # 芯片信息字体
+	芯片主体图层 = int
+	chip_corner_radius = 10  # 芯片主体圆角半径
+	chip_stroke_width = 5  # 芯片主体边框宽度
+	芯片主体颜色 = 0xRRGGBB #芯片主体颜色
+	
+# 焊盘 ===
+	# PID焊盘:
+		PID_焊盘图层 = int
+		PID_pin_number_font_size = 8  # 焊盘编号字体大小
+		PID_pin_number_font_family = "Cursive"  # 焊盘编号字体
+		PID_焊盘编号字体颜色 = 0xRRGGBB
+		PID_焊盘圆角 = int
+		PID_pin_rect_width = 20  # 焊盘宽度
+		PID_pin_rect_height = 10  # 焊盘高度
+		PID_边线宽度 = int
+		PID_边线颜色 = 0xRRGGBB
+		PID_焊盘颜色 = 0xRRGGBB
+		PID_pin2labelspacing = 2  # 引脚与标签的间距
+		PID_label2labelspacing = 2  # 标签与标签的间距
+	#PID中心焊盘
+		PID_中心焊盘图层 = int
+		PID_中心焊盘圆角 = int
+		PID_中心焊盘宽度 = int
+		PID_中心焊盘高度 = int
+		PID_中心焊边线宽度 = int
+		PID_中心焊边线颜色 = 0xRRGGBB
+		PID_中心焊焊盘颜色 = 0xRRGGBB
+		PID_中心焊盘X偏移 = int = int
+		PID_中心焊盘Y偏移 = int
+		
+	# QFN焊盘:
+		QFN_焊盘图层 = int
+		QFN_pin_number_font_size = 8  # 焊盘编号字体大小
+		QFN_pin_number_font_family = "Cursive"  # 焊盘编号字体
+		QFN_焊盘编号字体颜色 = 0xRRGGBB
+		QFN_焊盘圆角 = int
+		QFN_pin_rect_width = 20  # 焊盘宽度
+		QFN_pin_rect_height = 10  # 焊盘高度
+		QFN_边线宽度 = int
+		QFN_边线颜色 = 0xRRGGBB
+		QFN_焊盘颜色 = 0xRRGGBB
+		QFN_pin2labelspacing = 2  # 引脚与标签的间距
+		QFN_label2labelspacing = 2  # 标签与标签的间距
+	QFN_中心焊盘
+		QFN_中心焊盘图层 = int
+		QFN_中心焊盘圆角 = int
+		QFN_中心焊盘宽度 = int
+		QFN_中心焊盘高度 = int
+		QFN_中心焊边线宽度 = int
+		QFN_中心焊边线颜色 = 0xRRGGBB
+		QFN_中心焊焊盘颜色 = 0xRRGGBB
+		QFN_中心焊盘X偏移 = int
+		QFN_中心焊盘Y偏移 = int
+		
+	# QFP焊盘:
+		QFP_焊盘图层 = int
+		QFP_pin_number_font_size = 8  # 焊盘编号字体大小
+		QFP_pin_number_font_family = "Cursive"  # 焊盘编号字体
+		QFP_焊盘编号字体颜色 = 0xRRGGBB
+		QFP_焊盘圆角 = int
+		QFP_pin_rect_width = 20  # 焊盘宽度
+		QFP_pin_rect_height = 10  # 焊盘高度
+		QFP_边线宽度 = int
+		QFP_边线颜色 = 0xRRGGBB
+		QFP_焊盘颜色 = 0xRRGGBB
+		QFP_pin2labelspacing = 2  # 引脚与标签的间距
+		QFP_label2labelspacing = 2  # 标签与标签的间距
+	#QFP中心焊盘
+		QFP_中心焊盘图层 = int
+		QFP_中心焊盘圆角 = int
+		QFP_中心焊盘宽度 = int
+		QFP_中心焊盘高度 = int
+		QFP_中心焊边线宽度 = int
+		QFP_中心焊边线颜色 = 0xRRGGBB
+		QFP_中心焊焊盘颜色 = 0xRRGGBB
+		QFP_中心焊盘X偏移 = int
+		QFP_中心焊盘Y偏移 = int
+        
+# 标签参数
+
+	标签图层
+	标签宽度比文本宽多少 = int #标签宽度是跟随内部文本长度决定的 这值代表了标签留给内部文本左右空隙是多少 该值=(标签宽度-文本宽度)/2
+    label_height = 15  # 标签高度
+    label_spacing = 20  # 标签间距
+
+
+        

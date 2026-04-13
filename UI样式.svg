@@ -1,0 +1,179 @@
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>UI</title>
+ <g class="layer" display="inline">
+  <title>引脚分配区</title>
+  <rect fill="#fce8e8" height="571.99999" id="引脚功能分配区" stroke="#d6d6d6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="311.99999" x="94.79996" y="98.20001"/>
+  <text fill="#7f7f7f" font-family="Serif" font-size="16" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="157.79996" xml:space="preserve" y="104.2">引脚功能分配</text>
+  <rect fill="#e2e2e2" height="553.63617" id="引脚分配列表(列表)" stroke="#848080" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.4" width="303" x="99.31979" y="111.58289"/>
+  <!--列表需要时显示纵向滚动条-->
+  <!--  -->
+  <!-- PIN0 中心焊盘 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.7928" y="113.3915"/>
+  <rect fill="#e2e2e2" height="10" id="可见性(复选框 默认不选中/不可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.27422" y="118.39151"/>
+  <!--可见性(复选框) 引脚可见性 第一行为PIN0 代表中心焊盘 该行只显示焊盘 不生成功能标签-->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号0(text)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="111.91981" xml:space="preserve" y="129.17398">00</text>
+  <rect fill="#000000" height="15.45775" id="引脚0功能1背景(样式来源于功能组)" rx="3" ry="3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="34.27432" x="139.82748" y="115.66265"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="引脚0功能名1(text)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="156.76464" xml:space="preserve" y="129.17398">GND</text>
+  <!-- 引脚功能背景与引脚功能名:单击修改文本 双击弹出引脚"功能组样式"选择窗口 -->
+  <rect fill="#ffd4aa" height="15.45775" id="svg_3" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="183.42583" y="115.66265"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PIN1 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.79288" y="134.86167"/>
+  <rect fill="#e2e2e2" height="10" id="可见性2(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.27424" y="139.86167"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号1(text)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="111.91971" xml:space="preserve" y="150.64415">01</text>
+  <rect fill="#ffff00" height="15.45775" id="引脚1功能1背景(样式来源于功能组)" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.82751" y="137.13282"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚1功能名1" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.76463" xml:space="preserve" y="150.64415">PB01</text>
+  <rect fill="#007fff" height="15.45775" id="引脚1功能2背景(样式来源于功能组)" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="185.0587" y="137.13282"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="引脚1功能名2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="206.02504" xml:space="preserve" y="150.64415">TX02</text>
+  <rect fill="#ffaaaa" height="15.45775" id="引脚1功能n背景(样式来源于功能组)" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="230.45055" y="137.03282"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="引脚1功能名3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="251.41682" xml:space="preserve" y="150.64415">DAC6</text>
+  <rect fill="#ffd4aa" height="15.45775" id="添加按钮背景" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="283.17424" y="137.03282"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PIN2 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.79284" y="156.22657"/>
+  <rect fill="#e2e2e2" height="10" id="可见性3(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.27421" y="161.22657"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="112.23327" xml:space="preserve" y="171.69556">02</text>
+  <rect fill="#ffff00" height="15.45775" id="svg_21" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.82747" y="158.49771"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_20" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.76459" xml:space="preserve" y="172.00904">PB02</text>
+  <rect fill="#007fff" height="15.45775" id="svg_19" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="185.05866" y="158.49771"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_18" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="206.09282" xml:space="preserve" y="172.00904">RX02</text>
+  <rect fill="#00ff7f" height="15.45775" id="svg_17" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="230.45051" y="158.39771"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="251.4846" xml:space="preserve" y="172.00904">PWM1</text>
+  <rect fill="#ffd4aa" height="15.45775" id="svg_15" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="283.17427" y="158.39771"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PIN3 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.79282" y="177.51545"/>
+  <rect fill="#e2e2e2" height="10" id="可见性4(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.27418" y="182.51545"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="112.23319" xml:space="preserve" y="193.29792">03</text>
+  <rect fill="#bf0000" height="15.45775" id="svg_31" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.82751" y="179.78659"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_30" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.76457" xml:space="preserve" y="193.29792">VCC</text>
+  <rect fill="#ffd4aa" height="15.45775" id="svg_25" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="190.2165" y="179.68659"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PIN4 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.79282" y="198.76708"/>
+  <rect fill="#e2e2e2" height="10" id="可见性5(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.27418" y="203.76708"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="112.23319" xml:space="preserve" y="214.54955">04</text>
+  <rect fill="#ffff00" height="15.45775" id="svg_41" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.82751" y="201.03822"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_40" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.76457" xml:space="preserve" y="214.54955">PB04</text>
+  <rect fill="#007f7f" height="15.45775" id="svg_39" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="185.0587" y="201.03822"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_38" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="206.09578" xml:space="preserve" y="214.54955">MISO</text>
+  <rect fill="#00ff7f" height="15.45775" id="svg_37" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="230.45055" y="200.93822"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_36" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="251.48756" xml:space="preserve" y="214.54955">PWM2</text>
+  <rect fill="#ffd4aa" height="15.45775" id="svg_35" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="283.17424" y="200.93822"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PIN5 -->
+  <rect fill="#e2e2e2" height="20" id="引脚行6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.7696" y="220.01909"/>
+  <rect fill="#e2e2e2" height="10" id="可见性6(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.25102" y="225.01909"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="112.21009" xml:space="preserve" y="235.80157">05</text>
+  <rect fill="#ffff00" height="15.45775" id="svg_51" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.80428" y="222.29023"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_50" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.74147" xml:space="preserve" y="235.80157">PB05</text>
+  <rect fill="#007f7f" height="15.45775" id="svg_49" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="185.03548" y="222.29023"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_48" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="205.97271" xml:space="preserve" y="235.80157">MOSI</text>
+  <rect fill="#ffaaaa" height="15.45775" id="svg_47" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="230.42733" y="222.19024"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_46" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="251.36449" xml:space="preserve" y="235.80157">ADC3</text>
+  <rect fill="#ffffff" height="15.45775" id="svg_6BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="275.54407" y="222.19025"/>
+  <text class="BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB" fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="297.40472" xml:space="preserve" y="235.80155">XTALI</text>
+  <rect fill="#ffd4aa" height="15.45775" id="svg_45" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="329.03004" y="222.19024"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+  <!-- PINn -->
+  <rect fill="#e2e2e2" height="20" id="引脚行N" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="300" x="100.7696" y="241.21909"/>
+  <rect fill="#e2e2e2" height="10" id="可见性N(复选框 默认选中/可见)" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="10" x="124.25102" y="246.21909"/>
+  <!--可见性(复选框) 引脚可见性 包括焊盘 功能标签默认选中/可见 -->
+  <text fill="#000000" font-family="Cursive" font-size="16" id="引脚号N" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="112.21009" xml:space="preserve" y="257.00157">06</text>
+  <rect fill="#000000" height="15.45775" id="svg_61" rx="3" ry="3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="41.87432" x="139.80428" y="243.49023"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_60" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="160.74147" xml:space="preserve" y="257.00156">GND</text>
+  <rect fill="#ffd4aa" height="15.45775" id="svg_45" rx="3" ry="3" stroke="#565656" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="15.45775" x="190.21651" y="243.49023"/>
+  <!-- + 添加引脚功能 -->
+  <!--  -->
+ </g>
+ <g class="layer">
+  <title>文件操作区</title>
+  <!--位于引脚分配区下方-->
+  <rect fill="#fce8e8" height="54" id="svg_1" stroke="#d6d6d6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="311.99999" x="94.23474" y="673.71361"/>
+  <rect fill="#e2e2e2" height="25" id="svg_9" rx="4" ry="4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="80" x="104.88748" y="688.71363"/>
+  <rect fill="#e2e2e2" height="25" id="svg_8" rx="4" ry="4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="80" x="209.10869" y="688.71361"/>
+  <rect fill="#e2e2e2" height="25" id="svg_7" rx="4" ry="4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" width="80" x="313.58198" y="688.71363"/>
+  <text fill="#000000" font-family="Serif" font-size="16" id="svg_10" stroke="#d6d6d6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="144.83725" xml:space="preserve" y="706.71361">读取</text>
+  <text fill="#000000" font-family="Serif" font-size="16" id="svg_11" stroke="#d6d6d6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="249.00043" xml:space="preserve" y="706.71361">保存</text>
+  <text fill="#000000" font-family="Serif" font-size="16" id="svg_12" stroke="#d6d6d6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="354.16361" xml:space="preserve" y="706.71361">输出图片</text>
+ </g>
+ <g class="layer">
+  <title>功能组样式窗口</title>
+  <!--应用启动时加载分组样式预设文件 preset\Groupingstyle.txt -->
+  <rect fill="#fce8e8" height="181.87147" id="功能组样式选择窗口(弹出窗口)" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="149.67712" x="503.29783" y="100.73042"/>
+  <rect fill="#fce8e8" height="142.86834" id="功能组样式选择列表(列表)" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="140.54546" x="507.63952" y="104.31035"/>
+  <!--列表需要时显示纵向滚动条-->
+  <rect fill="#ff0000" height="15" id="svg_1138" rx="3" ry="3" stroke="#000000" width="60" x="511.94095" y="125.84977"/>
+  <rect fill="#ffff56" height="15" id="svg_1140" rx="3" ry="3" stroke="#000000" width="60" x="511.94094" y="142.45792"/>
+  <rect fill="#ead0d0" height="15" id="svg_1142" rx="3" ry="3" stroke="#424242" width="60" x="511.94094" y="159.00778"/>
+  <rect fill="#4291e5" height="15" id="svg_1146" rx="3" ry="3" stroke="#424242" width="60" x="511.94096" y="175.50423"/>
+  <rect fill="#007fff" height="15" id="svg_1144" rx="3" ry="3" stroke="#424242" width="60" x="511.94094" y="192.17462"/>
+  <rect fill="#000000" height="15" id="svg_1148" rx="3" ry="3" stroke="#000000" width="60" x="511.94094" y="109.16794"/>
+  <rect fill="#007f00" height="15" id="svg_1150" rx="3" ry="3" stroke="#000000" width="60" x="511.94094" y="208.88887"/>
+  <rect fill="#f7adad" height="15" id="svg_1154" rx="3" ry="3" stroke="#424242" width="60" x="511.94094" y="225.60197"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1137" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="541.94099" xml:space="preserve" y="139.13058">VCC</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_1139" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="541.941" xml:space="preserve" y="155.57095">GPIO</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1141" stroke="#000000" stroke-width="0" text-anchor="middle" x="541.94098" xml:space="preserve" y="172.48863">PWM</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1145" stroke="#000000" stroke-width="0" text-anchor="middle" x="541.94086" xml:space="preserve" y="188.74642">USART</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1143" stroke="#000000" stroke-width="0" text-anchor="middle" x="541.94099" xml:space="preserve" y="205.65547">I2C</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_1147" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="541.94099" xml:space="preserve" y="122.53483">GND</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1149" stroke="#000000" stroke-width="0" text-anchor="middle" x="541.94099" xml:space="preserve" y="222.13886">SPI</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_1153" stroke="#000000" stroke-width="0" text-anchor="middle" x="541.941" xml:space="preserve" y="238.68281">DAC0</text>
+  <rect fill="#ff0000" height="15" id="svg_58" rx="3" ry="3" stroke="#000000" width="60" x="574.80565" y="125.55443"/>
+  <rect fill="#ffff56" height="15" id="svg_57" rx="3" ry="3" stroke="#000000" width="60" x="574.80564" y="142.16258"/>
+  <rect fill="#ead0d0" height="15" id="svg_56" rx="3" ry="3" stroke="#424242" width="60" x="574.80564" y="158.71244"/>
+  <rect fill="#4291e5" height="15" id="svg_55" rx="3" ry="3" stroke="#424242" width="60" x="574.80566" y="175.20889"/>
+  <rect fill="#007fff" height="15" id="svg_54" rx="3" ry="3" stroke="#424242" width="60" x="574.80564" y="191.87928"/>
+  <rect fill="#000000" height="15" id="svg_53" rx="3" ry="3" stroke="#000000" width="60" x="574.80564" y="108.8726"/>
+  <rect fill="#007f00" height="15" id="svg_52" rx="3" ry="3" stroke="#000000" width="60" x="574.80564" y="208.59353"/>
+  <rect fill="#f7adad" height="15" id="svg_44" rx="3" ry="3" stroke="#424242" width="60" x="574.80564" y="225.30663"/>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_43" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="604.80568" xml:space="preserve" y="138.83524">VCC</text>
+  <text fill="#000000" font-family="Cursive" font-size="16" id="svg_42" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="604.8057" xml:space="preserve" y="155.27561">GPIO</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_34" stroke="#000000" stroke-width="0" text-anchor="middle" x="604.80567" xml:space="preserve" y="172.19329">PWM</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_33" stroke="#000000" stroke-width="0" text-anchor="middle" x="604.80556" xml:space="preserve" y="188.45108">USART</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_32" stroke="#000000" stroke-width="0" text-anchor="middle" x="604.80568" xml:space="preserve" y="205.36013">I2C</text>
+  <text fill="#ffffff" font-family="Cursive" font-size="16" id="svg_29" stroke="#cc1e1e" stroke-width="0" text-anchor="middle" x="604.80568" xml:space="preserve" y="122.23949">GND</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_28" stroke="#000000" stroke-width="0" text-anchor="middle" x="604.80568" xml:space="preserve" y="221.84352">SPI</text>
+  <text fill="#3f3f3f" font-family="Cursive" font-size="16" id="svg_27" stroke="#000000" stroke-width="0" text-anchor="middle" x="604.8057" xml:space="preserve" y="238.38747">DAC0</text>
+  <!--双击样式 以编辑方式打开 功能组"新建/编辑"窗口 -->
+  <rect fill="#fce8e8" height="18.80878" id="svg_4" rx="3" ry="3" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="140.54546" x="507.63952" y="256.17558"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="16" id="svg_6" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="576.34492" xml:space="preserve" y="271.53608">添加新功能组</text>
+  <!--点击 以新建方式打开 功能组"新建/编辑"窗口 -->
+ </g>
+ <g class="layer">
+  <title>功能组&amp;quot;新建/编辑&amp;quot;|窗口</title>
+  <!--以编辑方式打开时 加载当前分组样式 以新建方式打开时 随机生成字体 边框 填充颜色 -->
+  <rect class="功能组&quot;新建/编辑&quot;窗口" fill="#ffffff" height="152.80317" id="样式编辑窗口" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="122.46032" x="700" y="100"/>
+  <rect fill="#aad4ff" height="15" id="样式预览" rx="3" ry="3" stroke="#00ff00" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="60" x="729.46114" y="110.46032"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="12" id="svg_22" stroke="#00ff00" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="759.46113" xml:space="preserve" y="122.67576">预览</text>
+  <!-- 内容=组名输入文本框 -->
+  <rect fill="#ffffff" height="10.97179" id="字体选择框" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="64.5768" x="718.87701" y="138.68762"/>
+  <rect fill="#ffffff" height="10.97179" id="字体大小文本框" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="14.42006" x="718.87697" y="154.51833"/>
+  <rect fill="#ffffff" height="10.97179" id="边框线宽度文本框" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="14.42006" x="718.87698" y="170.20579"/>
+  <rect fill="#ffffff" height="10.97179" id="圆角半径文本框" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="14.42006" x="718.87698" y="186.20672"/>
+  <rect class=" 点击弹出颜色选择器" fill="#000000" height="10.97179" id="字体颜色色块" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="64.5768" x="739.71734" y="154.51835"/>
+  <rect class=" 点击弹出颜色选择器" fill="#7c7c7c" height="10.97179" id="边框颜色色块" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="64.5768" x="739.71731" y="170.20577"/>
+  <rect class=" 点击弹出颜色选择器" fill="#aad4ff" height="10.97179" id="填充颜色色块" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="64.5768" x="739.71727" y="186.20672"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="12" id="斜体" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="789.55563" xml:space="preserve" y="148.47781">i</text>
+  <text fill="#000000" font-family="Sans-serif" font-size="12" font-weight="bold" id="加粗" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="798.65563" xml:space="preserve" y="148.57781">B</text>
+  <rect fill="#ffffff" height="10.97179" id="组名输入文本框" rx="2" ry="2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="85.8768" x="718.87695" y="201.89186"/>
+  <rect fill="#ffffff" height="18" id="svg_70" rx="4" ry="4" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="40" x="719.12695" y="225.29068"/>
+  <rect fill="#ffffff" height="18" id="svg_71" rx="4" ry="4" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0.5" width="40" x="764.50379" y="225.29069"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="12" id="svg_72" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="738.70363" xml:space="preserve" y="239.2371">删除</text>
+  <!--以编辑方式打开时 点击删除当前样式 -->
+  <text fill="#000000" font-family="Sans-serif" font-size="12" id="svg_73" stroke="#232323" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="784.80667" xml:space="preserve" y="238.84082">确认</text>
+  <!--点击返回所有设置参数 样式改变后 保存分组样式预设文件-->
+ </g>
+</svg>

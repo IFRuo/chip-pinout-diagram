@@ -1,0 +1,39 @@
+/* ESP32-C6-wroom-1  */
+
+ 1: GND                                            
+ 2: 3V3                                            
+ 3: EN                                             
+ 4: MTMS/GPIO4/LP_GPIO4/LP_UART_RXD/ADC1_CH4/FSPIHD
+ 5: MTDI/GPIO5/LP_GPIO5/LP_UART_TXD/ADC1_CH5/FSPIWP
+ 6: MTCK/GPIO6/LP_GPIO6/LP_I2C_SDA/ADC1_CH6/FSPICLK
+ 7: MTDO/GPIO7/LP_GPIO7/LP_I2C_SCL/FSPID           
+ 8: GPIO0/XTAL_32K_P/LP_GPIO0/LP_UART_DTRN/ADC1_CH0
+ 9: GPIO1/XTAL_32K_N/LP_GPIO1/LP_UART_DSRN/ADC1_CH1
+10: GPIO8                                          
+11: GPIO10                                         
+12: GPIO11                                         
+13: GPIO12/USB_D                                   
+14: GPIO13/USB_D+                                  
+15: GPIO9                                          
+16: GPIO18/SDIO_CMD/FSPICS2                        
+17: GPIO19/SDIO_CLK/FSPICS3                        
+18: GPIO20/SDIO_DATA0/FSPICS4                      
+19: GPIO21/SDIO_DATA1/FSPICS5                      
+20: GPIO22/SDIO_DATA2                              
+21: GPIO23/SDIO_DATA3                              
+22: NC                                             
+23: GPIO15                                         
+24: U0RXD/GPIO17/FSPICS1                           
+25: U0TXD/GPIO16/FSPICS0                           
+26: GPIO3/LP_GPIO3/LP_UART_CTSN/ADC1_CH3           
+27: GPIO2/LP_GPIO2/LP_UART_RTSN/ADC1_CH2/FSPIQ     
+28: GND                                            
+29: EPAD                                           
+30: EPAD                                           
+31: EPAD                                           
+32: EPAD                                           
+33: EPAD                                           
+34: EPAD                                           
+35: EPAD                                           
+36: EPAD                                           
+37: EPAD                                           
