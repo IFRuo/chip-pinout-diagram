@@ -1,0 +1,45 @@
+<svg width="518.4" height="204.0" xmlns="http://www.w3.org/2000/svg">
+<rect width="518.4" height="204.0" fill="#555555" />
+<defs>
+  <marker id="pin_marker" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" fill="#000000" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+</defs>
+<rect fill="#000000" height="90" rx="10" ry="10" stroke="#000000" stroke-width="5" width="75" x="222.0" y="57.0"/>
+<ellipse cx="237.0" cy="72.0" fill="#000000" rx="5" ry="5" stroke="#ffffff" stroke-width= "1"/>
+<g class="pin_layer">
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="202.0" y="77.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="212.0" y="85.0">1</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="296.0" y="77.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="306.0" y="85.0">6</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="202.0" y="97.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="212.0" y="105.0">2</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="202.0" y="117.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="212.0" y="125.0">3</text>
+<rect fill="#cccccc" height="10" rx="2" ry="2" stroke="#000000" stroke-width="1" width="20" x="296.0" y="117.0"/>
+<text fill="#000000" font-family="Arial" font-size="8" stroke="#ffffff" text-anchor="middle" x="306.0" y="125.0">4</text>
+</g>
+<g class="label_layer">
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="44.4" x="147.6" y="74.5"/><text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="169.79999999999998" y="87.0">Vout</text>
+<rect fill="#ff0000" height="15" rx="3" ry="3" stroke="#ffffff" stroke-width="1" width="34.8" x="326.0" y="74.5"/><text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="343.4" y="87.0">VDD</text>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ffffff" stroke-width="1" width="34.8" x="157.2" y="94.5"/><text fill="#ffffff" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="174.6" y="107.0">VSS</text>
+<rect fill="#ff6122" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="34.8" x="157.2" y="114.5"/><text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="174.6" y="127.0">IN+</text>
+<rect fill="#ff6122" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="34.8" x="326.0" y="114.5"/><text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="343.4" y="127.0">IN-</text>
+</g>
+<g class="legend_layer" transform="translate(20, 20)" id="legend">
+<rect fill="#00ffff" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="0"/>
+<text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="12">OUT</text>
+<rect fill="#ff6122" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="20"/>
+<text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="32">IN</text>
+<rect fill="#ff0000" height="15" rx="3" ry="3" stroke="#ffffff" stroke-width="1" width="100" x="0" y="40"/>
+<text fill="#000000" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="52">VS+</text>
+<rect fill="#000000" height="15" rx="3" ry="3" stroke="#ffffff" stroke-width="1" width="100" x="0" y="60"/>
+<text fill="#ffffff" font-family="Arial" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="72">VS-</text>
+<rect fill="#ffff00" height="15" rx="3" ry="3" stroke="#000000" stroke-width="1" width="100" x="0" y="80"/>
+<text fill="#000000" font-family="Dubai Light" font-size="16" font-weight="normal" font-style="normal" text-anchor="middle" x="50.0" y="92">SHDN</text>
+</g>
+<text fill="#B2B2B2" font-family="Impact" font-size="26" font-weight="bold"  text-anchor="middle" x="259.0" y="72.0">GS</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="22" font-weight="bold" text-anchor="middle" x="259.0" y="102.0">8573</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="12" text-anchor="middle" x="259.0" y="122.0">PID</text>
+<text fill="#B2B2B2" font-family="KaiTi" font-size="10" text-anchor="middle" x="259.0" y="132.0">6 PIN</text>
+</svg>

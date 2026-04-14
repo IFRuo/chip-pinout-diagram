@@ -766,7 +766,8 @@ class SvgGenerator:
         label_spacing = pad_config.get(f'{package_prefix}标签间距', 10)
         # 读取焊盘间距
         pin_spacing = pad_config.get(f'{package_prefix}焊盘间距', 10)
-        spacing = self.config_manager.get('焊盘.PID焊盘.PID引脚与标签间距', 6)
+        pidspacing = self.config_manager.get('焊盘.PID焊盘.PID标签间距', 6)
+        pidspacingpin = self.config_manager.get('焊盘.PID焊盘.PID引脚与标签间距', 6)
 
         # 计算引脚列的总高度
         total_pin_height = (half_pins - 1) * pin_spacing + self._pin_rect_height
@@ -785,34 +786,41 @@ class SvgGenerator:
             # Left side labels
             if pin_left and pin_left.is_visible:
                 # 左侧焊盘的位置
-                pad_x_left = body_left - self._pin_rect_width
-                label_x_left = pad_x_left
+              
+                label_x_left = body_left - self._pin_rect_width +  pidspacing - pidspacingpin +1 ###################
                 for j, func in enumerate(pin_left.functions):
                     style = self.style_manager.get_style(func.group_name)
                     if style:
                         # 计算标签宽度
                         style = self.style_manager.get_style(func.group_name)
                         font_size = style.font_size if style else 12
-                        width = self._calculate_text_width(func.name, style.font_family, font_size) + 4 + label_spacing
+                        width = self._calculate_text_width(func.name, style.font_family, font_size) + 7 
                         # 左侧标签起始位置 = 焊盘x - 间距 - 标签宽度
-                        label_x = label_x_left - spacing - width
+                        label_x = label_x_left - pidspacing - width 
+                        print("===============================================")
+                        print("L=",pidspacing)
+                        print("L=",label_spacing)
                         parts.append(self._generate_function_label(func, style, label_x, y_pos))
                         # 更新下一个标签的起始位置
                         label_x_left = label_x
 
             # Right side labels
             if pin_right and pin_right.is_visible:
-                label_x_right = body_right + self._pin_rect_width
+
+                label_x_right = body_right + self._pin_rect_width - pidspacing + pidspacingpin###################
                 for j, func in enumerate(pin_right.functions):
                     style = self.style_manager.get_style(func.group_name)
                     if style:
                         # 右侧标签起始位置 = 焊盘x + 焊盘宽度 + 间距
-                        label_x = label_x_right + spacing
+                        label_x = label_x_right + pidspacing 
+                        print("===============================================")
+                        print("R=",pidspacing)
+                        print("R=",label_spacing)
                         parts.append(self._generate_function_label(func, style, label_x, y_pos))
                         # 计算标签宽度并更新下一个标签的起始位置
                         style = self.style_manager.get_style(func.group_name)
                         font_size = style.font_size if style else 12
-                        width = self._calculate_text_width(func.name, style.font_family, font_size) + 0 + label_spacing
+                        width = self._calculate_text_width(func.name, style.font_family, font_size) + 7 
                         label_x_right = label_x + width
 
         parts.append('</g>')

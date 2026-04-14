@@ -1,0 +1,14 @@
+[Chip pin function]
+[]
+[3402LQ]
+[PID(6)]
+
+OTHER	:Arial,0,0,12,#000000,3,1,#757575,#FFFFFF,{.+}
+
+00:[NC,NC],(0,1)
+01:[G,OTHER],(1,1)
+02:[NC,NC],(0,1)
+03:[S,OTHER],(1,1)
+04:[NC,NC],(0,1)
+05:[D,OTHER],(1,1)
+06:[NC,NC],(0,1)

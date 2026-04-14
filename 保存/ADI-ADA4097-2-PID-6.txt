@@ -1,0 +1,18 @@
+[Chip pin function]
+[]
+[ADA4097]
+[PID(6)]
+
+OUT	:Arial,0,0,16,#000000,3,1,#000000,#00ffff,{Vout}
+IN	:Arial,0,0,16,#000000,3,1,#000000,#ff6122,{.IN}
+VS+	:Arial,0,0,16,#000000,3,1,#ffffff,#ff0000,{+Vs}
+VS-	:Arial,0,0,16,#ffffff,3,1,#ffffff,#000000,{-Vs}
+SHDN	:Dubai Light,0,0,16,#000000,3,1,#000000,#ffff00,{}
+
+00:[NC,NC],(1,1)
+01:[Vout,OUT],(1,1)
+02:[-Vs,VS-],(1,1)
+03:[+IN,IN],(1,1)
+04:[-IN,IN],(1,1)
+05:[SHDN,SHDN],(1,1)
+06:[+Vs,VS+],(1,1)
